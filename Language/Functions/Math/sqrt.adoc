@@ -3,9 +3,9 @@ title: sqrt()
 categories: [ "Functions" ]
 subCategories: [ "Math" ]
 ---
-
-
-
+[float]
+=== Description
+[%hardbreaks]
 
 
 = sqrt(x)
@@ -15,10 +15,6 @@ subCategories: [ "Math" ]
 Calculates the square root of a number.
 [#overview]
 --
-
-[float]
-=== Description
-[%hardbreaks]
 
 
 [float]

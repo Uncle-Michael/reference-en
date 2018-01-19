@@ -3,8 +3,9 @@ title: bitSet()
 categories: [ "Functions" ]
 subCategories: [ "Bits and Bytes" ]
 ---
-
-
+[float]
+=== Description
+[%hardbreaks]
 
 
 
@@ -15,10 +16,6 @@ subCategories: [ "Bits and Bytes" ]
 Sets (writes a 1 to) a bit of a numeric variable.
 [#overview]
 --
-
-[float]
-=== Description
-[%hardbreaks]
 
 
 [float]
